@@ -1,0 +1,4 @@
+# ninja log v5
+18	323	6743403376775321	build.ninja	aadd840b78841d04
+2	591	6743403383124940	CMakeFiles/first_project.dir/main.cpp.obj	5cf86264f6538d3c
+593	828	6743403385448512	first_project.exe	cce9893c9765be69

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercicio_pratico",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exercicio_pratico::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercicio_pratico-Debug-1095cd130c5a99f97865.json",
+					"name" : "exercicio_pratico",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/felip/Documents/GitHub/L\u00f3gica de Programa\u00e7\u00e3o/C/exercicio_pratico/cmake-build-debug",
+		"source" : "C:/Users/felip/Documents/GitHub/L\u00f3gica de Programa\u00e7\u00e3o/C/exercicio_pratico"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

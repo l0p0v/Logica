@@ -1,0 +1,3 @@
+C:/Users/felip/Documents/GitHub/Lógica de Programação/C/exercicio_pratico/cmake-build-debug/CMakeFiles/exercicio_pratico.dir
+C:/Users/felip/Documents/GitHub/Lógica de Programação/C/exercicio_pratico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felip/Documents/GitHub/Lógica de Programação/C/exercicio_pratico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
